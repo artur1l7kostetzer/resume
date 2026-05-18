@@ -2,3 +2,4 @@ O que quero aprender no Entra 21:
 -Python;
 -Aprimorar meus conhecimentos sobre IA;
 -Aprender mais coisas sobre o mundo real
+-PyTorch
